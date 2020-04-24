@@ -1,10 +1,10 @@
 **PRIME AIRTIME**<br/>
 **primeairtime pa = new primeairtime()**<br/>
-prime_setting.token = "M9Q6QDNMHUFW6Z9RXK1A4EXG74ED4DMLV6TDWE3D";//if use_token is set to true
-prime_setting.use_token = false; // TRUE or FALSE
-prime_setting.username = "seuntech2k@yahoo.com"; //if use_token is set to false
-prime_setting.password = "1111"; //if use_token is set to false
-prime_setting.enviroment = "test"; //live
+prime_setting.token = "M9Q6QDNMHUFW6Z9RXK1A4EXG74ED4DMLV6TDWE3D";//if use_token is set to true\
+prime_setting.use_token = false; // TRUE or FALSE\
+prime_setting.username = "seuntech2k@yahoo.com"; //if use_token is set to false\
+prime_setting.password = "1111"; //if use_token is set to false\
+prime_setting.enviroment = "test"; //live\
 
 
 > pa.get_key();\
